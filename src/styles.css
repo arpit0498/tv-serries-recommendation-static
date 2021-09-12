@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: goldenrod;
+}
+body {
+  background-color: rgb(10, 19, 49);
+}
+button {
+  font-weight: bolder;
+  color: goldenrod;
+}
+
+ul,
+li {
+  width: auto;
+  text-align: center;
+  padding: 1rem;
+  border: 1px solid;
+  margin: auto;
+  border-radius: 0.5rem;
+}
