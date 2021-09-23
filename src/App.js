@@ -3,17 +3,20 @@ import "./styles.css";
 
 const genreData = {
   Drama: [
-    { name: "Game of thrones", ratings: "9.2/10" },
-    { name: "The witcher", ratings: "8.2/10" }
+    { name: "Game of thrones", ratings: "9.6/10" },
+    { name: "The witcher", ratings: "9.2/10" },
+    {name: "The Good doctor", ratings: "9.0/10"}
   ],
   Action: [
-    { name: "Money Heist", ratings: "8.2/10" },
-    { name: "Arrow", ratings: "7/10" }
+    { name: "Money Heist", ratings: "9.2/10" },
+    { name: "Arrow", ratings: "8/10" },
+    { name: "Flash", ratings: "7.1/10"}
   ],
 
   Crime: [
-    { name: "Mirzapur", ratings: "8.8/10" },
-    { name: "Sacred Games", ratings: "9/10" }
+    { name: "Mirzapur", ratings: "9.2/10" },
+    { name: "Sacred Games", ratings: "8.5/10" },
+     { name: "paatal Lok", ratings: "8.4/10" }
   ]
 };
 
